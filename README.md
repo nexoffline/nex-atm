@@ -1,4 +1,6 @@
-<<<<<<< HEAD
+> [!NOTE]
+> This resource is heavily outdated and hasn't been maintained since 2023
+> use at your own discretion 
 ## Overview:
 This script's goal is to create a simple way for players to rob ATM's, It's fully configurable and updates are planned! 
 
@@ -11,7 +13,7 @@ Prodigy inspired ATM Robbery using skeletonnetworks prodigy rp based hack miniga
 Showcase: https://youtu.be/UOdiVaeqRCM
 >>>>>>> parent of 9b2c80b (Update README.md)
 
-## Dependicies:
+## Dependencies:
 
 <<<<<<< HEAD
 - qb-inventory (or one of it's many re-skins (eg. ps-inventory, lj-inventory))
