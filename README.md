@@ -1,5 +1,5 @@
 > [!NOTE]
-> This resource is heavily outdated and hasn't been maintained since 2023
+> This resource is heavily outdated and hasn't been maintained since 2023,
 > use at your own discretion 
 ## Overview:
 This script's goal is to create a simple way for players to rob ATM's, It's fully configurable and updates are planned! 
